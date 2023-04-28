@@ -1,0 +1,81 @@
+,Propiedad,Agente,Venta,Forma de Pago,Mes
+0,Comercial,Max,740000,Notarías,Enero
+1,Residencial,Marcela,500000,Notarías,Enero
+2,Comercial,Marcela,700000,Notarías,Enero
+3,Residencial,Alexander,6950000,Notarías,Enero
+4,Comercial,Marcela,680000,Banco ,Febrero
+5,Comercial,Marcela,550000,Banco ,Febrero
+6,Residencial,Marcela,680000,Banco ,Febrero
+7,Residencial,Marcela,380000,Banco ,Febrero
+8,Residencial,Marcela,680000,Banco ,Febrero
+9,Residencial,Marcela,900000,Notarías,Febrero
+10,Residencial,Marcela,5683850,Independiente,Febrero
+11,Residencial,Marcela,1833500,Independiente,Febrero
+12,Residencial,Marcela ,690000,Independiente,Febrero
+13,Comercial,Marcela,1500000,No Mencionado,Marzo
+14,Residencial,Marcela,700000,No Mencionado,Marzo
+15,Comercial,Marcela,850000,No Mencionado,Marzo
+16,Comercial,Marcela,2200000,No Mencionado,Marzo
+17,Residencial,Marcela,579000,No Mencionado,Marzo
+18,Comercial,Luis,600000,No Mencionado,Abril
+19,Residencial,Max,6200000,No Mencionado,Abril
+20,Comercial,Alexander,4850000,No Mencionado,Abril
+21,Comercial,Alexander,7280000,No Mencionado,Abril
+22,Residencial,Marcela,700000,No Mencionado,Abril
+23,Industrial,Marcela,600000,No Mencionado,Abril
+24,Residencial,Marcela,4000000,No Mencionado,Abril
+25,Residencial,Luis ,1800000,No Mencionado,Abril
+26,Residencial,Luis,2000000,No Mencionado,Mayo
+27,Comercial,Max,6200000,No Mencionado,Mayo
+28,Comercial,Alexander,950000,No Mencionado,Mayo
+29,Residencial,Marcela ,1400000,No Mencionado,Junio
+30,Comercial,Marcela ,1300000,No Mencionado,Julio
+31,Industrial,Marcela ,550000,No Mencionado,Septiembre
+32,Comercial,Marcela ,750000,No Mencionado,Octubre
+33,Industrial,Marcela,950000,No Mencionado,Octubre
+34,Residencial,Marcela,117000,No Mencionado,Noviembre
+35,Comercial,Marcela,600000,No Mencionado,Noviembre
+36,Residencial,Marcela,680000,No Mencionado,Noviembre
+37,Comercial,Marcela,950000,No Mencionado,Noviembre
+38,Residencial,Marcela,2200000,No Mencionado,Noviembre
+39,Residencial,Marcela,950000,No Mencionado,Noviembre
+0,Industrial,Nadia,8133000,Notarías,Enero
+1,Comercial,Marcela,372000,Notarías,Enero
+2,Comercial,Luis,7264000,Notarías,Enero
+3,Comercial,Alexander,8092000,Notarías,Enero
+4,Comercial,Luis,6380000,Banco ,Febrero
+5,Residencial,Marcela,3856000,Banco ,Febrero
+6,Residencial,Marcela,6857000,Banco ,Febrero
+7,Comercial,Luis,5123000,Banco ,Febrero
+8,Residencial,Nadia,855000,Banco ,Febrero
+9,Residencial,Alexander,8107000,Notarías,Febrero
+10,Industrial,Nadia,3804000,Independiente,Febrero
+11,Residencial,Luis,3559000,Independiente,Febrero
+12,Industrial,Marcela,2451000,Independiente,Febrero
+13,Residencial,Max,5315000,No Mencionado,Marzo
+14,Comercial,Nadia,3327000,No Mencionado,Marzo
+15,Residencial,Luis,3049000,No Mencionado,Marzo
+16,Residencial,Marcela,7352000,No Mencionado,Marzo
+17,Residencial,Nadia,666000,No Mencionado,Marzo
+18,Residencial,Luis,6496000,No Mencionado,Abril
+19,Comercial,Alexander,1563000,No Mencionado,Abril
+20,Industrial,Marcela,1887000,No Mencionado,Abril
+21,Comercial,Luis,1396000,No Mencionado,Abril
+22,Comercial,Nadia,492000,No Mencionado,Abril
+23,Comercial,Nadia,2546000,No Mencionado,Abril
+24,Residencial,Nadia,8144000,No Mencionado,Abril
+25,Comercial,Nadia,2491000,No Mencionado,Abril
+26,Comercial,Max,2890000,No Mencionado,Mayo
+27,Residencial,Alexander,7678000,No Mencionado,Mayo
+28,Residencial,Alexander,3063000,No Mencionado,Mayo
+29,Residencial,Max,1340000,No Mencionado,Junio
+30,Residencial,Max,6541000,No Mencionado,Julio
+31,Residencial,Max,6305000,No Mencionado,Septiembre
+32,Industrial,Alexander,310000,No Mencionado,Octubre
+33,Comercial,Marcela,427000,No Mencionado,Octubre
+34,Comercial,Marcela,7512000,No Mencionado,Noviembre
+35,Comercial,Marcela,5764000,No Mencionado,Noviembre
+36,Residencial,Marcela,7251000,No Mencionado,Noviembre
+37,Comercial,Alexander,1736000,No Mencionado,Noviembre
+38,Residencial,Alexander,4447000,No Mencionado,Noviembre
+39,Comercial,Marcela,8117000,No Mencionado,Noviembre
